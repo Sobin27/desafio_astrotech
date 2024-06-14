@@ -9,5 +9,32 @@ Para instalar este projeto, siga os passos abaixo:
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/Sobin27/seu-repositorio.git
-   cd seu-repositorio
+   https://github.com/Sobin27/desafio_astrotech.git
+   ```
+2. **Acesse a pasta do projeto:**
+
+   ```bash
+   cd desafio_astrotech
+   ```
+3. **Instale as dependências:**
+
+   ```bash
+   composer install
+   ```
+
+## Execução
+Para executar o projeto, basta rodar o comando abaixo:
+
+1. **Executar o projeto pelo terminal:**
+
+   ```bash
+   php -f index.php
+   ```
+   Esse comando executará o arquivo `index.php` que contém a lógica do sistema.
+
+2. **Executar os testes unitários:**
+
+   ```bash
+   vendor/bin/phpunit tests/VendaTest.php
+   ```
+   Esse comando executará os testes unitários do projeto.

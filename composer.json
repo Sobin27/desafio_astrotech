@@ -1,0 +1,17 @@
+{
+    "name": "sobreira/desafio_astrotech",
+    "autoload": {
+        "psr-4": {
+            "Sobreira\\DesafioAstrotech\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sobin27",
+            "email": "jcsobreiraneto@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.2"
+    }
+}

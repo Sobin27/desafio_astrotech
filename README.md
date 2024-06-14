@@ -9,7 +9,7 @@ Para instalar este projeto, siga os passos abaixo:
 1. **Clone o repositório:**
 
    ```bash
-   https://github.com/Sobin27/desafio_astrotech.git
+   git clone https://github.com/Sobin27/desafio_astrotech.git
    ```
 2. **Acesse a pasta do projeto:**
 
